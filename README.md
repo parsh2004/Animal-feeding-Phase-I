@@ -1,7 +1,7 @@
 # Animal-feeding-Phase-I
 
 ## Aim: 
-
+To develop a animal feeding game-Phase-1 using unity.
 ## Algorithm:
 
 ### Player Controller
